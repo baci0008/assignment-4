@@ -17,9 +17,9 @@ img {
 	width: 100%; /* All images will be 100% the size of their parent */
 }
 
-.baseline {
+/*.baseline {
 	background-image: url(../images/baseline.svg);
-}
+} */
 
 strong {
 	font-weight: bold;
